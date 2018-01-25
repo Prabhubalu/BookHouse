@@ -11,7 +11,7 @@ public class LoginActivity extends AppCompatActivity {
 
      EditText usernameWrapper;
      EditText passwordWrapper;
-     Button btn,reg_btn;
+     Button btn, reg_btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,7 +28,8 @@ public class LoginActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent i = new Intent(LoginActivity.this, BooksActivity.class);
+                startActivity(i);
             }
         });
 
@@ -36,8 +37,8 @@ public class LoginActivity extends AppCompatActivity {
         reg_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(LoginActivity.this,RegisterActivity.class);
-                startActivity(intent);
+                Intent i = new Intent(LoginActivity.this, RegisterActivity.class);
+                startActivity(i);
             }
         });
 
