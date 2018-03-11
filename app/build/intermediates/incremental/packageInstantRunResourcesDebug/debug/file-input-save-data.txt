@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Feb 19 21:21:23 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/prabhubalu/Downloads/BookHouse-master/app/build/intermediates/assets/debug
+0.path=fonts/materialdrawerfont-font-v5.0.0.ttf
+0.set=ASSET
+count=1

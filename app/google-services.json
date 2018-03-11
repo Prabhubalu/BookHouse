@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061854715950",
+    "firebase_url": "https://bookhouse-in.firebaseio.com",
+    "project_id": "bookhouse-in",
+    "storage_bucket": "bookhouse-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061854715950:android:2481a20a753f4220",
+        "android_client_info": {
+          "package_name": "com.example.prabhubalu.bookhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061854715950-vidg3pjpfac3mu4l2seutra3fplsiuk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prabhubalu.bookhouse",
+            "certificate_hash": "234e58161e84b8d96bd67094805565784b03c355"
+          }
+        },
+        {
+          "client_id": "1061854715950-og5ff1adjh0ef3vk836892vq290dnsvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-K8Yycap8CCETRnjl_LeC2JM2BYrjBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061854715950-og5ff1adjh0ef3vk836892vq290dnsvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

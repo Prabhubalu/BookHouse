@@ -1,0 +1,4 @@
+#Sun Mar 11 08:22:29 IST 2018
+base.0=/Users/prabhubalu/Downloads/BookHouse-master/app/build/intermediates/transforms/dexMerger/debug/27
+path.0=classes.dex
+renamed.0=classes.dex
